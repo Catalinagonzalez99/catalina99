@@ -9,8 +9,9 @@ console.log("ingresar numero A");
  numeroIngresadoB = Number(leer());
  console.log("ingresar numero C"); 
  numeroIngresadoC = Number(leer());
- let suma = 0;
- console.log("suma de numeros ingresados",RESPUESTA_TOTAL, numeroIngresadoA+numeroIngresadoB );
+ if (numeroIngresado >0){
+    
+ }
 
 
 for (let i= 1;  i <= 3;i++){
